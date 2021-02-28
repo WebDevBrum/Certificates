@@ -12,11 +12,11 @@
 [freeCodeCamp Responsive Web Design](https://www.freecodecamp.org)
 <img src='readme-images/fcc.jpeg' width='350' height='200' alt='project preview'/>
 
-[I'm an inline-style link](https://www.google.com)
+[Wes Bos JavaScript to further brush up on the fundamentals](https://beginnerjavascript.com)
 <img src='readme-images/javascript.jpeg' width='350' height='200' alt='project preview'/>
 
-[I'm an inline-style link](https://www.google.com)
+[Wes Bos React](https://reactforbeginners.com)
 <img src='readme-images/react.jpeg' width='350' height='200' alt='project preview'/>
 
-[I'm an inline-style link](https://www.google.com)
+[Wes Bos Node](https://learnnode.com)
 <img src='readme-images/node.jpeg' width='350' height='200' alt='project preview'/>
