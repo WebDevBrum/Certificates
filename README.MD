@@ -1,4 +1,4 @@
-<img src='readme-images/scott.jpeg' width='500' height='150' alt='logo'/>
+<img src='readme-images/header.jpeg' width='500' height='150' alt='logo'/>
 
 __A Collection of my coding related certificates__
 
